@@ -85,3 +85,6 @@ body{
 .mt_32{
     margin-top: 32px;
 }
+.justify_space_between{
+    justify-content: space-between;
+}
