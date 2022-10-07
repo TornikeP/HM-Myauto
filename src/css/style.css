@@ -200,3 +200,61 @@ hr {
     text-align: center;
     padding: 8px 76px;
 }
+.car_filter{
+    padding-left: 20px;
+}
+.card{
+    background-color: white;
+    padding: 13px;
+    border-radius: 14px;
+}
+.img{
+    border-radius: 10px;
+}
+.car_name{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #272A37;
+}
+.description_container{
+    padding: 16px;
+}
+.car_year{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #8C929B;
+}
+.car_ganbajeba{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    color: #FF3B30;
+}
+.flag_container{
+    width: 16px;
+    height: 16px;
+}
+.gel{
+    background-color: #F2F3F6;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 15px;
+}
+.justify_content_end{
+    justify-content: end;
+}
+
+.icon_container{
+    width: 16px;
+    height: 12px;
+}
+.description{
+    font-size: 12px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    display: flex;
+    align-items: flex-end
+}
