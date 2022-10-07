@@ -186,10 +186,12 @@ hr {
 .input_text {
     padding: 14px;
 }
-.filter_box_footer{
+
+.filter_box_footer {
     padding: 24px;
 }
-.search_button{
+
+.search_button {
     background: #FD4100;
     border-radius: 6px;
     border: none;
@@ -200,57 +202,67 @@ hr {
     text-align: center;
     padding: 8px 76px;
 }
-.car_filter{
+
+.car_filter {
     padding-left: 20px;
 }
-.card{
+
+.card {
     background-color: white;
     padding: 13px;
     border-radius: 14px;
 }
-.img{
+
+.img {
     border-radius: 10px;
 }
-.car_name{
+
+.car_name {
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
     color: #272A37;
 }
-.description_container{
+
+.description_container {
     padding: 16px;
 }
-.car_year{
+.car_year {
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
     color: #8C929B;
 }
-.car_ganbajeba{
+
+.car_ganbajeba {
     font-weight: 500;
     font-size: 11px;
     line-height: 13px;
     color: #FF3B30;
 }
-.flag_container{
+
+.flag_container {
     width: 16px;
     height: 16px;
 }
-.gel{
+
+.gel {
     background-color: #F2F3F6;
     border-radius: 50%;
     padding: 5px;
     font-size: 15px;
 }
-.justify_content_end{
+
+.justify_content_end {
     justify-content: end;
 }
 
-.icon_container{
+.icon_container {
     width: 16px;
     height: 12px;
 }
-.description{
+
+.description {
     font-size: 12px;
     font-weight: 500;
     font-size: 12px;
